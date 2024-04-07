@@ -1,0 +1,36 @@
+{ 
+    "C_major": { 
+        "i": "C", "ii": "Dmin", "iii": "Emin", "iv": "F", "v": "G", "vi": "Amin", "vii": "Bdim" 
+        }, 
+    "G_major": {
+          "i": "G", "ii": "Amin", "iii": "Bmin", "iv": "C", "v": "D", "vi": "Emin", "vii": "F#dim" 
+         }, 
+    "D_major": { 
+        "i": "D", "ii": "Emin", "iii": "F#min", "iv": "G", "v": "A", "vi": "Bmin", "vii": "C#dim" 
+        }, 
+    "A_major": { 
+        "i": "A", "ii": "Bmin", "iii": "C#min", "iv": "D", "v": "E", "vi": "F#min", "vii": "G#dim" 
+        }, 
+    "E_major": { "i": "E", "ii": "F#min", "iii": "G#min", "iv": "A", "v": "B", "vi": "C#min", "vii": "D#dim" }, 
+    "B_major": { "i": "B", "ii": "C#min", "iii": "D#min", "iv": "E", "v": "F#", "vi": "G#min", "vii": "A#dim" }, 
+    "F♯_major": { "i": "F#", "ii": "G#min", "iii": "A#min", "iv": "B", "v": "C#", "vi": "D#min", "vii": "E#dim" },
+    "C♯_major": { "i": "C#", "ii": "D#min", "iii": "E#min", "iv": "F#", "v": "G#", "vi": "A#min", "vii": "B#dim" }, 
+    "A♭_major": {"i": "A♭", "ii": "B♭min", "iii": "Cmin", "iv": "D♭", "v": "E♭", "vi": "Fmin", "vii": "Gdim" }, 
+    "E♭_major": { "i": "E♭", "ii": "Fmin", "iii": "Gmin", "iv": "A♭", "v": "B♭", "vi": "Cmin", "vii": "Ddim" }, 
+    "B♭_major": { "i": "B♭", "ii": "Cmin", "iii": "Dmin", "iv": "E♭", "v": "F", "vi": "Gmin", "vii": "Adim" }, 
+    "F_major": { "i": "F", "ii": "Gmin", "iii": "Amin", "iv": "B♭", "v": "C", "vi": "Dmin", "vii": "Edim" }, 
+    "D♭_major": {"i": "D♭", "ii": "E♭min", "iii": "Fmin", "iv": "G♭", "v": "A♭", "vi": "B♭min", "vii": "Cdim" },
+     "G♭_major": { "i": "G♭", "ii": "A♭min", "iii": "B♭min", "iv": "C♭", "v": "D♭", "vi": "E♭min", "vii": "Fdim" }, 
+     "C♭_major": {"i": "C♭", "ii": "D♭min", "iii": "E♭min", "iv": "F♭", "v": "G♭", "vi": "A♭min", "vii": "B♭dim" }, 
+     "A_minor": {"i": "Amin", "ii": "Bdim", "iii": "C", "iv": "Dmin", "v": "Emin", "vi": "F", "vii": "G#dim" }, 
+     "E_minor": { "i": "Emin", "ii": "F#dim", "iii": "G", "iv": "Amin", "v": "Bmin", "vi": "C", "vii": "D#dim" }, 
+     "B_minor": {"i": "Bmin", "ii": "C#dim", "iii": "D", "iv": "Emin", "v": "F#min", "vi": "G", "vii": "A#dim" }, 
+     "F♯_minor": {"i": "F#min", "ii": "G#dim", "iii": "A", "iv": "Bmin", "v": "C#min", "vi": "D", "vii": "E#dim" }, 
+     "C♯_minor": {"i": "C#min", "ii": "D#dim", "iii": "E", "iv": "F#min", "v": "G#min", "vi": "A", "vii": "B#dim" }, 
+     "G♯_minor": { "i": "G#min", "ii": "A#dim", "iii": "B", "iv": "C#min", "v": "D#min", "vi": "E", "vii": "F##dim" }, 
+     "D♯_minor": { "i": "D#min", "ii": "E#dim", "iii": "F#", "iv": "G#min", "v": "A#min", "vi": "B", "vii": "C##dim" }, 
+     "A♯_minor": {"i": "A#min", "ii": "B#dim", "iii": "C#", "iv": "D#min", "v": "E#min", "vi": "F#", "vii": "G##dim" }, 
+     "E♯_minor": { "i": "E#min", "ii": "F##dim", "iii": "G#", "iv": "A#min", "v": "B#min", "vi": "C#", "vii": "D##dim" }, 
+     "B♯_minor": { "i": "B#min", "ii": "C##dim", "iii": "D#", "iv": "E#min", "v": "F##min", "vi": "G#", "vii": "A##dim" }, 
+     "F♭_minor": { "i": "F♭min", "ii": "G♭dim", "iii": "A", "iv": "B♭min", "v": "C♭min", "vi": "D♭", "vii": "E♭dim" }, 
+     "C♭_minor": { "i": "C♭min", "ii": "D♭dim", "iii": "E", "iv": "F♭min", "v": "G♭min", "vi": "A", "vii": "B♭dim" } }
